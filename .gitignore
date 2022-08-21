@@ -1,0 +1,5 @@
+setting.ini.bak
+Dockerfile.testmode
+Makefile
+.idea/
+.dockerignore

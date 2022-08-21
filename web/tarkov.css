@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'BB Strata Pro Headline';
+    src:url('fonts/tarkov-webfont.woff2');
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+    background-image: url("deploying.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.time {
+    font-family:'BB Strata Pro Headline', serif;
+    position: absolute;
+    color: #c6cbbd;
+
+}
+
+.name {
+    font-family: 'BB Strata Pro Headline', serif;
+    position: absolute;
+    color: #c6cbbd;
+    width: 100%;
+    font-size: 170%;
+    text-align: center;
+}
